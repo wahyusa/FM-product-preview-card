@@ -5,6 +5,7 @@ module.exports = {
 		extend: {
 			colors: {
 				'brand-dark-cyan': 'hsl(158, 36%, 37%)',
+				'brand-darker-cyan': 'hsl(156, 42%, 18%)',
 				'brand-cream': 'hsl(30, 38%, 92%)',
 				'brand-very-dark-blue': 'hsl(212, 21%, 14%)',
 				'brand-dark-grayish-blue': 'hsl(228, 12%, 48%)',

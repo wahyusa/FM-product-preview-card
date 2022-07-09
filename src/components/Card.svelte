@@ -28,7 +28,7 @@
 				<span class="text-sm line-through text-brand-dark-grayish-blue">$169.99</span>
 			</div>
 			<button
-				class="inline-flex items-center justify-center bg-brand-dark-cyan text-white py-3.5 rounded-lg font-medium"
+				class="inline-flex items-center justify-center bg-brand-dark-cyan hover:bg-brand-darker-cyan focus:bg-brand-darker-cyan transition-color duration-200 text-white py-3.5 rounded-lg font-medium"
 			>
 				<img class="mr-3" src="/FM-product-preview-card/images/icon-cart.svg" alt="icon cart" />
 				Add to cart

@@ -1,38 +1,54 @@
-# create-svelte
+# Frontend Mentor - Product preview card component solution
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Creating a project
+## Table of contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-```bash
-# create a new project in the current directory
-npm init svelte
+## Overview
 
-# create a new project in my-app
-npm init svelte my-app
-```
+### The challenge
 
-## Developing
+Users should be able to:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
 
-```bash
-npm run dev
+### Links
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- Solution URL: [https://wahyusa.github.io/FM-product-preview-card/](https://wahyusa.github.io/FM-product-preview-card/)
 
-## Building
+## My process
 
-To create a production version of your app:
+### Built with
 
-```bash
-npm run build
-```
+- Semantic HTML5 markup
+- Sveltekit
+- TailwindCSS
 
-You can preview the production build with `npm run preview`.
+### What I learned
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+The srcset attribute from HTML5 is interesting to learn so I can provide multiple image size on specific viewport.
+
+### Continued development
+
+If there is any suggestion I should try that or try with svelte-image plugin
+
+### Useful resources
+
+- [Responsive images MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+- [Example of srcset implementation](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_picture)
+
+## Author
+
+- Website - [Wahyu Syamsul A'lam](https://sabar.my.id)
+- Frontend Mentor - [@wahyusa](https://www.frontendmentor.io/profile/wahyusa)
